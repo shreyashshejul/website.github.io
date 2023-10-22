@@ -137,6 +137,6 @@ To deploy the website to a live server, follow these steps:
 
 ## 8. Conclusion
 
-This documentation provides an overview of the website's design, structure, and functionality, along with instructions for running and deploying the website. For any questions or assistance, please contact our web development team.
+This documentation provides an overview of the website's design, structure, and functionality, along with instructions for running and deploying the website. For any questions or assistance, please feel free to contact me.
 
 ---
